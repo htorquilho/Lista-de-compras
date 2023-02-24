@@ -1,2 +1,2 @@
-# Lista-de-compras
+# Lista de Compras
 Lista de compras utilizando JavaScript.
